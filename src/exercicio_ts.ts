@@ -27,5 +27,5 @@ function fazMultiplicacao(valorA: number, ValorB: number): number {
 }
 
 //Chamada dos resultados:
-console.log(fazMultiplicacao(25, 30));
 console.log(dizOla('Gian'));
+console.log(fazMultiplicacao(25, 30));
